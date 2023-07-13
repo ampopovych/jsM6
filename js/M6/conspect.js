@@ -56,8 +56,55 @@
 // console.log(Boolean(3));
 // console.log(Boolean('true'));
 // console.log(Boolean(1/0));
-let text = 'abcdefghijklmnop';
-for (let index = 0; index < text.length; index +=1) {
-  console.log(text[index]);
+// let text = '12345';
+// for (let index = 0; index < text.length; index +=1) {
+//   console.log(text[index]);
   
-}
+// }
+// let i = text.length-1;
+// console.log(i+1);
+// let slovo = ' ';
+// for (i; i >= 0; i -= 1) {
+//   slovo = slovo + text[i];
+// }
+// console.log(slovo);
+//  console.log(text[text.length-2]);
+
+// const cyfry = '12345';
+// let sum = 1;
+// for (let index = 0; index < cyfry.length; index++) {
+//   sum = sum * Number(cyfry[index]);
+  
+// }
+// console.log(sum);
+
+// let num1 = 3;
+// num1++;
+// let num2 = num1--;
+// console.log(num1++);
+// console.log(--num2);
+
+
+
+// let a = 0.3;
+// let b = 0.1;
+// console.log((a-b).toFixed(5));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
